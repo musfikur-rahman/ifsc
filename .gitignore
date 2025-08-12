@@ -1,7 +1,6 @@
 # Python
 __pycache__/
 *.py[cod]
-*.egg-info/
 .venv/
 venv/
 .env
@@ -9,15 +8,9 @@ venv/
 # OS
 .DS_Store
 
-# Data files generated at runtime
+# Generated at runtime
 app/in_banks.json
 
-# Caches
-.cache/
-*.cache
-
-# Jupyter
+# Tools
 .ipynb_checkpoints/
-
-# VSCode
 .vscode/
