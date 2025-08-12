@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# OS
+.DS_Store
+
+# Data files generated at runtime
+app/bd_banks.json
+
+# Caches
+.cache/
+*.cache
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/

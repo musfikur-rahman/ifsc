@@ -1,0 +1,1484 @@
+[
+  {
+    "title": "Abhyudaya Cooperative Bank",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_02.xlsx",
+    "bank": "ABHYUDAYA COOPERATIVE BANK LIMITED",
+    "ifsc_prefix": "ABHY"
+  },
+  {
+    "title": "Ahmedabad Mercantile Cooperative Bank",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_76.xlsx",
+    "bank": "AHMEDABAD MERCANTILE COOPERATIVE BANK",
+    "ifsc_prefix": "AMCB"
+  },
+  {
+    "title": "Ahmednagar Merchants Cooperative Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_240.xlsx",
+    "bank": "AHMEDNAGAR MERCHANTS COOP BANK LTD",
+    "ifsc_prefix": "AMDN"
+  },
+  {
+    "title": "Airtel Payments Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_194.xlsx",
+    "bank": "AIRTEL PAYMENTS BANK LIMITED",
+    "ifsc_prefix": "AIRP"
+  },
+  {
+    "title": "Akola Janata Commercial Cooperative Bank",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_161.xlsx",
+    "bank": "AKOLA JANATA COMMERCIAL COOPERATIVE BANK",
+    "ifsc_prefix": "AKJB"
+  },
+  {
+    "title": "Almora Urban Cooperative Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_105.xlsx",
+    "bank": "ALMORA URBAN COOPERATIVE BANK LIMITED",
+    "ifsc_prefix": "AUCB"
+  },
+  {
+    "title": "Ambarnath Jaihind Cooperative Bank Limited, Ambarnath",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_227.xlsx",
+    "bank": "AMBARNATH JAIHIND COOP BANK LTD AMBARNATH",
+    "ifsc_prefix": "AJHC"
+  },
+  {
+    "title": "Andhra Pragathi Grameena Bank",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_141.xlsx",
+    "bank": "ANDHRA PRAGATHI GRAMEENA BANK",
+    "ifsc_prefix": "APGB"
+  },
+  {
+    "title": "Andhra Pradesh Grameena Vikas Bank",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_229.xlsx",
+    "bank": "ANDHRA PRADESH GRAMEENA VIKAS BANK",
+    "ifsc_prefix": "APGV"
+  },
+  {
+    "title": "Apna Sahakari Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_106.xlsx",
+    "bank": "APNA SAHAKARI BANK LIMITED",
+    "ifsc_prefix": "ASBL"
+  },
+  {
+    "title": "Arvind Sahakari Bank Ltd",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_269.xlsx",
+    "bank": "ARVIND SAHAKARI BANK LTD",
+    "ifsc_prefix": "ARBL"
+  },
+  {
+    "title": "Australia and New Zealand Banking Group Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_107.xlsx",
+    "bank": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED",
+    "ifsc_prefix": "ANZB"
+  },
+  {
+    "title": "AU Small Finance Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_204.xlsx",
+    "bank": "AU SMALL FINANCE BANK LIMITED",
+    "ifsc_prefix": "AUBL"
+  },
+  {
+    "title": "Axis Bank",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_05.xlsx",
+    "bank": "AXIS BANK",
+    "ifsc_prefix": "UTIB"
+  },
+  {
+    "title": "Bandhan Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_178.xlsx",
+    "bank": "BANDHAN BANK LIMITED",
+    "ifsc_prefix": "BDBL"
+  },
+  {
+    "title": "Bank of America",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_06.xlsx",
+    "bank": "BANK OF AMERICA",
+    "ifsc_prefix": "BOFA"
+  },
+  {
+    "title": "Bank of Bahrein and Kuwait",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_07.xlsx",
+    "bank": "BANK OF BAHARAIN AND KUWAIT BSC",
+    "ifsc_prefix": "BBKM"
+  },
+  {
+    "title": "Bank of Baroda",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_08.xlsx",
+    "bank": "BANK OF BARODA",
+    "ifsc_prefix": "BARB"
+  },
+  {
+    "title": "Bank of Ceylon",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_09.xlsx",
+    "bank": "BANK OF CEYLON",
+    "ifsc_prefix": "BCEY"
+  },
+  {
+    "title": "Bank of China Limited India Branch",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_293.xlsx",
+    "bank": "BANK OF CHINA LIMITED INDIA BRANCH",
+    "ifsc_prefix": "BCHN"
+  },
+  {
+    "title": "Bank of India",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_10.xlsx",
+    "bank": "BANK OF INDIA",
+    "ifsc_prefix": "BKID"
+  },
+  {
+    "title": "Bank of Maharashtra",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_11.xlsx",
+    "bank": "BANK OF MAHARASHTRA",
+    "ifsc_prefix": "MAHB"
+  },
+  {
+    "title": "Barclays Bank",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_13.xlsx",
+    "bank": "BARCLAYS BANK",
+    "ifsc_prefix": "BARC"
+  },
+  {
+    "title": "Bassein Catholic Cooperative Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_14.xlsx",
+    "bank": "BASSEIN CATHOLIC COOPERATIVE BANK LIMITED",
+    "ifsc_prefix": "BACB"
+  },
+  {
+    "title": "Bhagini Nivedita Sahakari Bank Limited, Pune",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_228.xlsx",
+    "bank": "BHAGINI NIVEDITA SAHAKARI BANK LTD PUNE",
+    "ifsc_prefix": "BNSB"
+  },
+  {
+    "title": "Bharat Cooperative Bank Mumbai Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_77.xlsx",
+    "bank": "BHARAT COOPERATIVE BANK MUMBAI LIMITED",
+    "ifsc_prefix": "BCBM"
+  },
+  {
+    "title": "Bombay Mercantile Cooperative Bank Ltd",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_271.xlsx",
+    "bank": "BOMBAY MERCANTILE COOPERATIVE BANK LTD",
+    "ifsc_prefix": "BMCB"
+  },
+  {
+    "title": "BNP Paribas Bank",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_15.xlsx",
+    "bank": "B N P PARIBAS",
+    "ifsc_prefix": "BNPA"
+  },
+  {
+    "title": "Canara Bank",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_16.xlsx",
+    "bank": "CANARA BANK",
+    "ifsc_prefix": "CNRB"
+  },
+  {
+    "title": "Capital Small Finance Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_192.xlsx",
+    "bank": "CAPITAL SMALL FINANCE BANK LIMITED",
+    "ifsc_prefix": "CLBL"
+  },
+  {
+    "title": "Central Bank of India",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_18.xlsx",
+    "bank": "CENTRAL BANK OF INDIA",
+    "ifsc_prefix": "CBIN"
+  },
+  {
+    "title": "Chhattisgarh Rajya Gramin Bank",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_283.xlsx",
+    "bank": "CHHATTISGARH RAJYA GRAMIN BANK",
+    "ifsc_prefix": "CRGB"
+  },
+  {
+    "title": "CITI Bank",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_20.xlsx",
+    "bank": "CITI BANK",
+    "ifsc_prefix": "CITI"
+  },
+  {
+    "title": "Citizen Credit Cooperative Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_21.xlsx",
+    "bank": "CITIZEN CREDIT COOPERATIVE BANK LIMITED",
+    "ifsc_prefix": "CCBL"
+  },
+  {
+    "title": "City Union Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_22.xlsx",
+    "bank": "CITY UNION BANK LIMITED",
+    "ifsc_prefix": "CIUB"
+  },
+  {
+    "title": "Coastal Local Area Bank Ltd",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_266.xlsx",
+    "bank": "COASTAL LOCAL AREA BANK LTD",
+    "ifsc_prefix": "COAS"
+  },
+  {
+    "title": "Credit Agricole Corporate and Investment Bank Calyon Bank",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_24.xlsx",
+    "bank": "CREDIT AGRICOLE CORPORATE AND INVESTMENT BANK CALYON BANK",
+    "ifsc_prefix": "CRLY"
+  },
+  {
+    "title": "Credit Suisse AG",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_109.xlsx",
+    "bank": "CREDIT SUISEE AG",
+    "ifsc_prefix": "CRES"
+  },
+  {
+    "title": "CSB Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_251.xlsx",
+    "bank": "CSB BANK LIMITED",
+    "ifsc_prefix": "CSBK"
+  },
+  {
+    "title": "CTBC Bank Co Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_253.xlsx",
+    "bank": "CTBC BANK CO LTD",
+    "ifsc_prefix": "CTCB"
+  },
+  {
+    "title": "Darussalam Cooperative Urban Bank Ltd",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_279.xlsx",
+    "bank": "DARUSSALAM CO OPERATIVE URBAN BANK LTD",
+    "ifsc_prefix": "DCUB"
+  },
+  {
+    "title": "DBS Bank India Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_25.xlsx",
+    "bank": "DBS BANK INDIA LIMITED",
+    "ifsc_prefix": "DBSS"
+  },
+  {
+    "title": "DCB Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_28.xlsx",
+    "bank": "DCB BANK LIMITED",
+    "ifsc_prefix": "DCBL"
+  },
+  {
+    "title": "Deogiri Nagari Sahakari Bank Limited, Aurangabad",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_189.xlsx",
+    "bank": "DEOGIRI NAGARI SAHAKARI BANK LTD. AURANGABAD",
+    "ifsc_prefix": "DEOB"
+  },
+  {
+    "title": "Deposit Insurance and Credit Guarantee Corporation",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_172.xlsx",
+    "bank": "DEPOSIT INSURANCE AND CREDIT GUARANTEE CORPORATION",
+    "ifsc_prefix": "DICG"
+  },
+  {
+    "title": "Deustche Bank",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_27.xlsx",
+    "bank": "DEUSTCHE BANK",
+    "ifsc_prefix": "DEUT"
+  },
+  {
+    "title": "Development Bank of Singapore",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_300.xlsx",
+    "bank": "DEVELOPMENT BANK OF SINGAPORE",
+    "ifsc_prefix": "DBSS"
+  },
+  {
+    "title": "Dhanalakshmi Bank",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_29.xlsx",
+    "bank": "DHANALAKSHMI BANK",
+    "ifsc_prefix": "DLXB"
+  },
+  {
+    "title": "DMK Jaoli Bank",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_213.xlsx",
+    "bank": "DMK JAOLI BANK",
+    "ifsc_prefix": "DMKJ"
+  },
+  {
+    "title": "Doha Bank Q.P.S.C",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_174.xlsx",
+    "bank": "DOHA BANK Q.P.S.C",
+    "ifsc_prefix": "DOHB"
+  },
+  {
+    "title": "Dombivli Nagari Sahakari Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_31.xlsx",
+    "bank": "DOMBIVLI NAGARI SAHAKARI BANK LIMITED",
+    "ifsc_prefix": "DNSB"
+  },
+  {
+    "title": "Durgapur Steel Peoples Cooperative Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_218.xlsx",
+    "bank": "DURGAPUR STEEL PEOPLES CO-OPERATIVE BANK LTD",
+    "ifsc_prefix": "DURG"
+  },
+  {
+    "title": "Emirates NBD Bank (P.J.S.C)",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_210.xlsx",
+    "bank": "EMIRATES NBD BANK (P.J.S.C)",
+    "ifsc_prefix": "EBIL"
+  },
+  {
+    "title": "Esaf Small Finance Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_200.xlsx",
+    "bank": "ESAF SMALL FINANCE BANK LIMITED",
+    "ifsc_prefix": "ESMF"
+  },
+  {
+    "title": "Equitas Small Finance Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_193.xlsx",
+    "bank": "EQUITAS SMALL FINANCE BANK LIMITED",
+    "ifsc_prefix": "ESFB"
+  },
+  {
+    "title": "Export Import Bank of India",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_175.xlsx",
+    "bank": "EXPORT IMPORT BANK OF INDIA",
+    "ifsc_prefix": "EIBI"
+  },
+  {
+    "title": "Federal Bank",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_79.xlsx",
+    "bank": "FEDERAL BANK",
+    "ifsc_prefix": "FDRL"
+  },
+  {
+    "title": "Fincare Small Finance Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_209.xlsx",
+    "bank": "FINCARE SMALL FINANCE BANK LTD",
+    "ifsc_prefix": "FSFB"
+  },
+  {
+    "title": "FINO Payments Bank",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_207.xlsx",
+    "bank": "FINO PAYMENTS BANK",
+    "ifsc_prefix": "FINO"
+  },
+  {
+    "title": "Firstrand Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_32.xlsx",
+    "bank": "FIRSTRAND BANK LIMITED",
+    "ifsc_prefix": "FIRN"
+  },
+  {
+    "title": "First Abu Dhabi Bank PJSC",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_211.xlsx",
+    "bank": "FIRST ABU DHABI BANK PJSC",
+    "ifsc_prefix": "NBAD"
+  },
+  {
+    "title": "G P Parsik Bank",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_56.xlsx",
+    "bank": "G P PARSIK BANK",
+    "ifsc_prefix": "PJSB"
+  },
+  {
+    "title": "GS Mahanagar Cooperative Bank Limited, Mumbai",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_231.xlsx",
+    "bank": "GS MAHANAGAR CO-OPERATIVE BANK LIMITED,MUMBAI",
+    "ifsc_prefix": "MCBL"
+  },
+  {
+    "title": "Guardian Souharda Sahakari Bank Niyamita",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_294.xlsx",
+    "bank": "GUARDIAN SOUHARDA SAHAKARI BANK NIYAMITA",
+    "ifsc_prefix": "GSSB"
+  },
+  {
+    "title": "HDFC Bank",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_33.xlsx",
+    "bank": "HDFC BANK",
+    "ifsc_prefix": "HDFC"
+  },
+  {
+    "title": "Haryana State Cooperative Bank",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_237.xlsx",
+    "bank": "HARYANA STATE COOPERATIVE BANK",
+    "ifsc_prefix": "HARC"
+  },
+  {
+    "title": "Himachal Pradesh State Cooperative Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_188.xlsx",
+    "bank": "HIMACHAL PRADESH STATE COOPERATIVE BANK LTD",
+    "ifsc_prefix": "HPSC"
+  },
+  {
+    "title": "HSBC Bank",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_34.xlsx",
+    "bank": "HSBC BANK",
+    "ifsc_prefix": "HSBC"
+  },
+  {
+    "title": "Hutatma Sahakari Bank Ltd",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_280.xlsx",
+    "bank": "HUTATMA SAHAKARI BANK LTD",
+    "ifsc_prefix": "HUSB"
+  },
+  {
+    "title": "ICICI Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_35.xlsx",
+    "bank": "ICICI BANK LIMITED",
+    "ifsc_prefix": "ICIC"
+  },
+  {
+    "title": "IDBI Bank",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_36.xlsx",
+    "bank": "IDBI BANK",
+    "ifsc_prefix": "IBKL"
+  },
+  {
+    "title": "IDFC First Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_180.xlsx",
+    "bank": "IDFC FIRST BANK LTD",
+    "ifsc_prefix": "IDFB"
+  },
+  {
+    "title": "Indian Bank",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_37.xlsx",
+    "bank": "INDIAN BANK",
+    "ifsc_prefix": "IDIB"
+  },
+  {
+    "title": "India Post Payment Bank",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_224.xlsx",
+    "bank": "INDIA POST PAYMENT BANK",
+    "ifsc_prefix": "IPOS"
+  },
+  {
+    "title": "Indusind Bank",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_39.xlsx",
+    "bank": "INDUSIND BANK",
+    "ifsc_prefix": "INDB"
+  },
+  {
+    "title": "Indian Overseas Bank",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_38.xlsx",
+    "bank": "INDIAN OVERSEAS BANK",
+    "ifsc_prefix": "IOBA"
+  },
+  {
+    "title": "Industrial and Commercial Bank of China Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_154.xlsx",
+    "bank": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA LIMITED",
+    "ifsc_prefix": "ICBK"
+  },
+  {
+    "title": "Industrial Bank of Korea",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_181.xlsx",
+    "bank": "INDUSTRIAL BANK OF KOREA",
+    "ifsc_prefix": "IBKO"
+  },
+  {
+    "title": "Irinjalakuda Town Cooperative Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_232.xlsx",
+    "bank": "IRINJALAKUDA TOWN CO-OPERATIVE BANK LTD",
+    "ifsc_prefix": "ITBL"
+  },
+  {
+    "title": "Jalgaon Janata Sahkari Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_111.xlsx",
+    "bank": "JALGAON JANATA SAHAKARI BANK LIMITED",
+    "ifsc_prefix": "JJSB"
+  },
+  {
+    "title": "Jammu and Kashmir Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_81.xlsx",
+    "bank": "JAMMU AND KASHMIR BANK LIMITED",
+    "ifsc_prefix": "JAKA"
+  },
+  {
+    "title": "Janakalyan Sahakari Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_176.xlsx",
+    "bank": "JANAKALYAN SAHAKARI BANK LIMITED",
+    "ifsc_prefix": "JSBL"
+  },
+  {
+    "title": "Jana Small Finance Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_225.xlsx",
+    "bank": "JANA SMALL FINANCE BANK LTD",
+    "ifsc_prefix": "JSFB"
+  },
+  {
+    "title": "Janaseva Sahakari Bank (Borivli) Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_157.xlsx",
+    "bank": "JANASEVA SAHAKARI BANK BORIVLI LIMITED",
+    "ifsc_prefix": "JASB"
+  },
+  {
+    "title": "Janaseva Sahakari Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_42.xlsx",
+    "bank": "JANASEVA SAHAKARI BANK LIMITED",
+    "ifsc_prefix": "JANA"
+  },
+  {
+    "title": "Janata Sahakari Bank Limited (Pune)",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_112.xlsx",
+    "bank": "JANATA SAHAKARI BANK LIMITED",
+    "ifsc_prefix": "JSBP"
+  },
+  {
+    "title": "Janatha Seva Cooperative Bank Ltd",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_272.xlsx",
+    "bank": "JANATHA SEVA COOPERATIVE BANK LTD",
+    "ifsc_prefix": "JTSC"
+  },
+  {
+    "title": "Jio Payments Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_219.xlsx",
+    "bank": "JIO PAYMENTS BANK LIMITED",
+    "ifsc_prefix": "JIOP"
+  },
+  {
+    "title": "JP Morgan Chase Bank NA",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_145.xlsx",
+    "bank": "JP MORGAN BANK",
+    "ifsc_prefix": "CHAS"
+  },
+  {
+    "title": "JSC VTB Bank",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_297.xlsx",
+    "bank": "JSC VTB BANK",
+    "ifsc_prefix": "VTBJ"
+  },
+  {
+    "title": "Kallappanna Awade Ichalkaranji Janata Sahakari Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_113.xlsx",
+    "bank": "KALLAPPANNA AWADE ICHALKARANJI JANATA SAHAKARI BANK LIMITED",
+    "ifsc_prefix": "KAIJ"
+  },
+  {
+    "title": "Kalyan Janata Sahakari Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_84.xlsx",
+    "bank": "KALYAN JANATA SAHAKARI BANK",
+    "ifsc_prefix": "KJSB"
+  },
+  {
+    "title": "Kalupur Commercial Cooperative Bank",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_82.xlsx",
+    "bank": "KALUPUR COMMERCIAL COOPERATIVE BANK",
+    "ifsc_prefix": "KCCB"
+  },
+  {
+    "title": "Karnataka Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_44.xlsx",
+    "bank": "KARNATAKA BANK LIMITED",
+    "ifsc_prefix": "KARB"
+  },
+  {
+    "title": "Karnataka Gramin Bank",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_260.xlsx",
+    "bank": "KARNATAKA GRAMIN BANK",
+    "ifsc_prefix": "PKGB"
+  },
+  {
+    "title": "Karnataka Vikas Grameena Bank",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_121.xlsx",
+    "bank": "KARNATAKA VIKAS GRAMEENA BANK",
+    "ifsc_prefix": "KVGB"
+  },
+  {
+    "title": "Karur Vysya Bank",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_45.xlsx",
+    "bank": "KARUR VYSYA BANK",
+    "ifsc_prefix": "KVBL"
+  },
+  {
+    "title": "KEB Hana Bank",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_184.xlsx",
+    "bank": "KEB HANA BANK",
+    "ifsc_prefix": "KOEX"
+  },
+  {
+    "title": "Kerala Gramin Bank",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_170.xlsx",
+    "bank": "KERALA GRAMIN BANK",
+    "ifsc_prefix": "KLGB"
+  },
+  {
+    "title": "Kookmin Bank",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_261.xlsx",
+    "bank": "KOOKMIN BANK",
+    "ifsc_prefix": "KBKB"
+  },
+  {
+    "title": "Kotak Mahindra Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_46.xlsx",
+    "bank": "KOTAK MAHINDRA BANK LIMITED",
+    "ifsc_prefix": "KKBK"
+  },
+  {
+    "title": "Maharashtra Gramin Bank",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_191.xlsx",
+    "bank": "MAHARASHTRA GRAMIN BANK",
+    "ifsc_prefix": "MAHG"
+  },
+  {
+    "title": "Maharashtra State Cooperative Bank",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_48.xlsx",
+    "bank": "MAHARASHTRA STATE COOPERATIVE BANK",
+    "ifsc_prefix": "MSCI"
+  },
+  {
+    "title": "Mahesh Sahakari Bank Limited Pune",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_239.xlsx",
+    "bank": "MAHESH SAHAKARI BANK LTD PUNE",
+    "ifsc_prefix": "MSBL"
+  },
+  {
+    "title": "MashreqBank PSC",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_49.xlsx",
+    "bank": "MASHREQBANK PSC",
+    "ifsc_prefix": "MSHQ"
+  },
+  {
+    "title": "Mizuho Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_50.xlsx",
+    "bank": "MIZUHO BANK LTD",
+    "ifsc_prefix": "MHCB"
+  },
+  {
+    "title": "Model Co-operative Bank Ltd",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_264.xlsx",
+    "bank": "MODEL COOPERATIVE BANK LTD",
+    "ifsc_prefix": "MDBK"
+  },
+  {
+    "title": "MUFG Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_226.xlsx",
+    "bank": "MUFG BANK, LTD",
+    "ifsc_prefix": "BOTM"
+  },
+  {
+    "title": "Nagpur Nagarik Sahakari Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_123.xlsx",
+    "bank": "NAGPUR NAGARIK SAHAKARI BANK LIMITED",
+    "ifsc_prefix": "NGSB"
+  },
+  {
+    "title": "National Bank for Agriculture and Rural Development",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_223.xlsx",
+    "bank": "NATIONAL BANK FOR AGRICULTURE AND RURAL DEVELOPMENT",
+    "ifsc_prefix": "NBRD"
+  },
+  {
+    "title": "Natwest Markets PLC",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_304.xlsx",
+    "bank": "NATWEST MARKETS PLC",
+    "ifsc_prefix": "ABNA"
+  },
+  {
+    "title": "Nav Jeevan Cooperative Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_245.xlsx",
+    "bank": "NAV JEEVAN CO OP BANK LTD",
+    "ifsc_prefix": "NJBK"
+  },
+  {
+    "title": "New India Cooperative Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_51.xlsx",
+    "bank": "NEW INDIA COOPERATIVE BANK LIMITED",
+    "ifsc_prefix": "NICB"
+  },
+  {
+    "title": "NKGSB Cooperative Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_52.xlsx",
+    "bank": "NKGSB COOPERATIVE BANK LIMITED",
+    "ifsc_prefix": "NKGS"
+  },
+  {
+    "title": "NONGHYUP Bank",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_305.xlsx",
+    "bank": "NONGHYUP BANK",
+    "ifsc_prefix": "NHBA"
+  },
+  {
+    "title": "North East Small Finance Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_214.xlsx",
+    "bank": "NORTH EAST SMALL FINANCE BANK LIMITED",
+    "ifsc_prefix": "NESF"
+  },
+  {
+    "title": "NSDL Payments Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_234.xlsx",
+    "bank": "NSDL PAYMENTS BANK LIMITED",
+    "ifsc_prefix": "NSPB"
+  },
+  {
+    "title": "Nutan Nagarik Sahakari Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_53.xlsx",
+    "bank": "NUTAN NAGARIK SAHAKARI BANK LIMITED",
+    "ifsc_prefix": "NNSB"
+  },
+  {
+    "title": "Pavana Sahakari Bank Ltd",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_284.xlsx",
+    "bank": "PAVANA SAHAKARI BANK LTD",
+    "ifsc_prefix": "PSBL"
+  },
+  {
+    "title": "Paytm Payments Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_205.xlsx",
+    "bank": "PAYTM PAYMENTS BANK LTD",
+    "ifsc_prefix": "PYTM"
+  },
+  {
+    "title": "PhonePe Private Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_221.xlsx",
+    "bank": "PHONEPE PRIVATE LIMITED",
+    "ifsc_prefix": "PHNP"
+  },
+  {
+    "title": "Prime Cooperative Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_116.xlsx",
+    "bank": "PRIME COOPERATIVE BANK LIMITED",
+    "ifsc_prefix": "PMEC"
+  },
+  {
+    "title": "PT Bank Maybank Indonesia TBK",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_190.xlsx",
+    "bank": "PT BANK MAYBANK INDONESIA TBK",
+    "ifsc_prefix": "IBBK"
+  },
+  {
+    "title": "Punjab and Sind Bank",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_58.xlsx",
+    "bank": "PUNJAB AND SIND BANK",
+    "ifsc_prefix": "PSIB"
+  },
+  {
+    "title": "Punjab National Bank",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_59.xlsx",
+    "bank": "PUNJAB NATIONAL BANK",
+    "ifsc_prefix": "PUNB"
+  },
+  {
+    "title": "Qatar National Bank SAQ",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_212.xlsx",
+    "bank": "QATAR NATIONAL BANK SAQ",
+    "ifsc_prefix": "QNBA"
+  },
+  {
+    "title": "Rabobank International",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_117.xlsx",
+    "bank": "RABOBANK INTERNATIONAL",
+    "ifsc_prefix": "RABO"
+  },
+  {
+    "title": "Rajarambapu Sahakari Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_220.xlsx",
+    "bank": "RAJARAMBAPU SAHAKARI BANK LIMITED",
+    "ifsc_prefix": "RRBP"
+  },
+  {
+    "title": "Rajarshi Shahu Sahakari Bank Limited, Pune",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_262.xlsx",
+    "bank": "RAJARSHI SHAHU SAHAKARI BANK LTD  PUNE",
+    "ifsc_prefix": "RSSB"
+  },
+  {
+    "title": "Rajasthan Gramin Bank",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_309.xlsx",
+    "bank": "RAJASTHAN GRAMIN BANK",
+    "ifsc_prefix": "RMGB"
+  },
+  {
+    "title": "Rajasthan Marudhara Gramin Bank",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_250.xlsx",
+    "bank": "RAJASTHAN MARUDHARA GRAMIN BANK",
+    "ifsc_prefix": "RMGB"
+  },
+  {
+    "title": "Rajgurunagar Sahakari Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_159.xlsx",
+    "bank": "RAJGURUNAGAR SAHAKARI BANK LIMITED",
+    "ifsc_prefix": "RSBL"
+  },
+  {
+    "title": "Rajkot Nagrik Sahakari Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_60.xlsx",
+    "bank": "RAJKOT NAGRIK SAHAKARI BANK LIMITED",
+    "ifsc_prefix": "RNSB"
+  },
+  {
+    "title": "Rajnandgaon District Central Co-operative Bank Ltd",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_274.xlsx",
+    "bank": "RAJNANDGAON DISTRICT CENTRAL CO-OPERATIVE BANK LTD",
+    "ifsc_prefix": "RDCB"
+  },
+  {
+    "title": "RBL Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_88.xlsx",
+    "bank": "RBL BANK LIMITED",
+    "ifsc_prefix": "RATN"
+  },
+  {
+    "title": "Reserve Bank of India",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_61.xlsx",
+    "bank": "RESERVE BANK OF INDIA",
+    "ifsc_prefix": "RBIS"
+  },
+  {
+    "title": "Samarth Sahakari Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_186.xlsx",
+    "bank": "SAMARTH SAHAKARI BANK LTD",
+    "ifsc_prefix": "SBLS"
+  },
+  {
+    "title": "Sant Sopankaka Sahakari Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_246.xlsx",
+    "bank": "SANT SOPANKAKA SAHAKARI BANK LTD",
+    "ifsc_prefix": "SANT"
+  },
+  {
+    "title": "Saptagiri Grameena Bank",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_295.xlsx",
+    "bank": "SAPTAGIRI GRAMEENA BANK",
+    "ifsc_prefix": "SAGB"
+  },
+  {
+    "title": "Saraspur Nagrik Cooperative Bank Limited, Saraspur",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_252.xlsx",
+    "bank": "SARASPUR NAGRIK CO OPERATIVE BANK LTD SARASPUR",
+    "ifsc_prefix": "SNBK"
+  },
+  {
+    "title": "Saraswat Cooperative Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_90.xlsx",
+    "bank": "SARASWAT COOPERATIVE BANK LIMITED",
+    "ifsc_prefix": "SRCB"
+  },
+  {
+    "title": "Satara Sahakari Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_258.xlsx",
+    "bank": "SATARA SAHAKARI BANK LTD",
+    "ifsc_prefix": "TSSB"
+  },
+  {
+    "title": "Saurashtra Gramin Bank",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_287.xlsx",
+    "bank": "SAURASHTRA GRAMIN BANK",
+    "ifsc_prefix": "SGBA"
+  },
+  {
+    "title": "SBER Bank",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_137.xlsx",
+    "bank": "SBER BANK",
+    "ifsc_prefix": "SABR"
+  },
+  {
+    "title": "SBM Bank India Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_235.xlsx",
+    "bank": "SBM BANK INDIA LIMITED",
+    "ifsc_prefix": "STCB"
+  },
+  {
+    "title": "Shikshak Sahakari Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_166.xlsx",
+    "bank": "SHIKSHAK SAHAKARI BANK LIMITED",
+    "ifsc_prefix": "SKSB"
+  },
+  {
+    "title": "Shinhan Bank",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_62.xlsx",
+    "bank": "SHINHAN BANK",
+    "ifsc_prefix": "SHBK"
+  },
+  {
+    "title": "Shivalik Small Finance Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_289.xlsx",
+    "bank": "SHIVALIK SMALL FINANCE BANK LIMITED",
+    "ifsc_prefix": "SMCB"
+  },
+  {
+    "title": "Shri Chhatrapati Rajashri Shahu Urban Cooperative Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_136.xlsx",
+    "bank": "SHRI CHHATRAPATI RAJASHRI SHAHU URBAN COOPERATIVE BANK LIMITED",
+    "ifsc_prefix": "CRUB"
+  },
+  {
+    "title": "Shri Veershaiv Cooperative Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_236.xlsx",
+    "bank": "SHRI VEERSHAIV CO OP BANK LTD",
+    "ifsc_prefix": "SVSH"
+  },
+  {
+    "title": "Shree Kadi Nagarik Sahakari Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_286.xlsx",
+    "bank": "SHREE KADI NAGARIK SAHAKARI BANK LIMITED",
+    "ifsc_prefix": "SKNB"
+  },
+  {
+    "title": "Slice Small Finance Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_308.xlsx",
+    "bank": "SLICE SMALL FINANCE BANK LIMITED",
+    "ifsc_prefix": "NESF"
+  },
+  {
+    "title": "Smriti Nagrik Sahakari Bank Maryadit",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_282.xlsx",
+    "bank": "SMRITI NAGRIK SAHAKARI BANK MARYADIT",
+    "ifsc_prefix": "SMNB"
+  },
+  {
+    "title": "Sir M Visvesvaraya Cooperative Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_233.xlsx",
+    "bank": "SIR M VISVESVARAYA CO OPERATIVE BANK LTD",
+    "ifsc_prefix": "MVCB"
+  },
+  {
+    "title": "Societe Generale",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_63.xlsx",
+    "bank": "SOCIETE GENERALE",
+    "ifsc_prefix": "SOGE"
+  },
+  {
+    "title": "Solapur Janata Sahakari Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_153.xlsx",
+    "bank": "SOLAPUR JANATA SAHAKARI BANK LIMITED",
+    "ifsc_prefix": "SJSB"
+  },
+  {
+    "title": "South Indian Bank",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_64.xlsx",
+    "bank": "SOUTH INDIAN BANK",
+    "ifsc_prefix": "SIBL"
+  },
+  {
+    "title": "Sree Charan Souhardha Cooperative Bank Ltd",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_273.xlsx",
+    "bank": "SREE CHARAN SOUHARDHA CO OPERATIVE BANK LTD",
+    "ifsc_prefix": "SECB"
+  },
+  {
+    "title": "Standard Chartered Bank",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_65.xlsx",
+    "bank": "STANDARD CHARTERED BANK",
+    "ifsc_prefix": "SCBL"
+  },
+  {
+    "title": "State Bank of India",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_68.xlsx",
+    "bank": "STATE BANK OF INDIA",
+    "ifsc_prefix": "SBIN"
+  },
+  {
+    "title": "Suco Souharda Sahakari Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_265.xlsx",
+    "bank": "SUCO SOUHARDA SAHAKARI BANK LTD",
+    "ifsc_prefix": "SUSB"
+  },
+  {
+    "title": "Sumitomo Mitsui Banking Corporation",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_142.xlsx",
+    "bank": "SUMITOMO MITSUI BANKING CORPORATION",
+    "ifsc_prefix": "SMBC"
+  },
+  {
+    "title": "Surat National Cooperative Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_179.xlsx",
+    "bank": "SURAT NATIONAL COOPERATIVE BANK LIMITED",
+    "ifsc_prefix": "SUNB"
+  },
+  {
+    "title": "Suryoday Small Finance Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_201.xlsx",
+    "bank": "SURYODAY SMALL FINANCE BANK LIMITED",
+    "ifsc_prefix": "SURY"
+  },
+  {
+    "title": "Sutex Cooperative Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_129.xlsx",
+    "bank": "SUTEX COOPERATIVE BANK LIMITED",
+    "ifsc_prefix": "SUTB"
+  },
+  {
+    "title": "Tamilnad Mercantile Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_74.xlsx",
+    "bank": "TAMILNAD MERCANTILE BANK LIMITED",
+    "ifsc_prefix": "TMBL"
+  },
+  {
+    "title": "Telangana Grameena Bank",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_306.xlsx",
+    "bank": "TELANGANA GRAMEENA BANK",
+    "ifsc_prefix": "TGRB"
+  },
+  {
+    "title": "Telangana State Coop Apex Bank",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_196.xlsx",
+    "bank": "TELANGANA STATE COOP APEX BANK",
+    "ifsc_prefix": "TSAB"
+  },
+  {
+    "title": "Textile Traders Cooperative Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_203.xlsx",
+    "bank": "TEXTILE TRADERS CO-OPERATIVE BANK LIMITED",
+    "ifsc_prefix": "TTCB"
+  },
+  {
+    "title": "The Adarsh Cooperative Urban Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_298.xlsx",
+    "bank": "THE ADARSH COOPERATIVE URBAN BANK LIMITED",
+    "ifsc_prefix": "ADBK"
+  },
+  {
+    "title": "The Ajara Urban Cooperative Bank Limited, Ajara",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_244.xlsx",
+    "bank": "THE AJARA URBAN CO OP BANK LTD AJARA",
+    "ifsc_prefix": "AJAR"
+  },
+  {
+    "title": "The A.P. Mahesh Cooperative Urban Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_119.xlsx",
+    "bank": "THE A.P. MAHESH COOPERATIVE URBAN BANK LIMITED",
+    "ifsc_prefix": "APMC"
+  },
+  {
+    "title": "The Akola District Central Cooperative Bank",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_147.xlsx",
+    "bank": "THE AKOLA DISTRICT CENTRAL COOPERATIVE BANK",
+    "ifsc_prefix": "ADCC"
+  },
+  {
+    "title": "The Akola Urban Cooperative Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_281.xlsx",
+    "bank": "THE AKOLA URBAN COOPERATIVE BANK LIMITED",
+    "ifsc_prefix": "TAUB"
+  },
+  {
+    "title": "The Akola-Washim District Central Cooperative Bank Ltd., Akola",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_303.xlsx",
+    "bank": "THE AKOLA-WASHIM DISTRICT CENTRAL COOPERATIVE BANK LTD., AKOLA",
+    "ifsc_prefix": "ADCC"
+  },
+  {
+    "title": "The Ahmednagar District Central Co-Operative Bank Ltd",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_277.xlsx",
+    "bank": "THE AHMEDNAGAR DISTRICT CENTRAL CO-OPERATIVE BANK LTD",
+    "ifsc_prefix": "AHDC"
+  },
+  {
+    "title": "The Andhra Pradesh State Coop Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_101.xlsx",
+    "bank": "THE ANDHRA PRADESH STATE COOPERATIVE BANK LIMITED",
+    "ifsc_prefix": "APBL"
+  },
+  {
+    "title": "The Bank of Nova Scotia",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_75.xlsx",
+    "bank": "THE BANK OF NOVA SCOTIA",
+    "ifsc_prefix": "NOSC"
+  },
+  {
+    "title": "The Banaskantha Mercantile Cooperative Bank Ltd",
+    "url": "https://rbidocs.rbi.org.in/rdocs/content/docs/IFCB2009_275.xlsx",
+    "bank": "THE BANASKANTHA MERCANTILE COOPERATIVE BANK LTD",
+    "ifsc_prefix": "TBMC"
+  },
+  {
+    "title": "The Baramati Sahakari Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_199.xlsx",
+    "bank": "THE BARAMATI SAHAKARI BANK LTD",
+    "ifsc_prefix": "BARA"
+  },
+  {
+    "title": "The Burdwan Central Co-operative Bank Ltd",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_292.xlsx",
+    "bank": "THE BURDWAN CENTRAL CO OPERATIVE BANK LTD",
+    "ifsc_prefix": "BUCB"
+  },
+  {
+    "title": "The Clearing Corporation of India Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_307.xlsx",
+    "bank": "THE CLEARING CORPORATION OF INDIA LIMITED",
+    "ifsc_prefix": "CCIL"
+  },
+  {
+    "title": "The Cooperative Bank of Rajkot Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_296.xlsx",
+    "bank": "THE COOPERATIVE BANK OF RAJKOT LIMITED",
+    "ifsc_prefix": "TCBR"
+  },
+  {
+    "title": "The Cosmos Cooperative Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_78.xlsx",
+    "bank": "THE COSMOS CO OPERATIVE BANK LIMITED",
+    "ifsc_prefix": "COSB"
+  },
+  {
+    "title": "The Delhi State Cooperative Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_158.xlsx",
+    "bank": "THE DELHI STATE COOPERATIVE BANK LIMITED",
+    "ifsc_prefix": "DLSC"
+  },
+  {
+    "title": "The Gadchiroli District Central Cooperative Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_146.xlsx",
+    "bank": "THE GADCHIROLI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+    "ifsc_prefix": "GDCB"
+  },
+  {
+    "title": "The Greater Bombay Cooperative Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_80.xlsx",
+    "bank": "THE GREATER BOMBAY COOPERATIVE BANK LIMITED",
+    "ifsc_prefix": "GBCB"
+  },
+  {
+    "title": "The Gujarat State Cooperative Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_120.xlsx",
+    "bank": "THE GUJARAT STATE COOPERATIVE BANK LIMITED",
+    "ifsc_prefix": "GSCB"
+  },
+  {
+    "title": "The HASTI Cooperative Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_167.xlsx",
+    "bank": "THE HASTI COOP BANK LTD",
+    "ifsc_prefix": "HCBL"
+  },
+  {
+    "title": "The Jalgaon Peopels Cooperative Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_149.xlsx",
+    "bank": "THE JALGAON PEOPELS COOPERATIVE BANK LIMITED",
+    "ifsc_prefix": "JPCB"
+  },
+  {
+    "title": "The Kalyan Janata Sahakari Bank Ltd",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_288.xlsx",
+    "bank": "THE KALYAN JANATA SAHAKARI BANK LTD.",
+    "ifsc_prefix": "KJSB"
+  },
+  {
+    "title": "The Kangra Central Cooperative Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_124.xlsx",
+    "bank": "THE KANGRA CENTRAL COOPERATIVE BANK LIMITED",
+    "ifsc_prefix": "KACE"
+  },
+  {
+    "title": "The Kangra Cooperative Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_164.xlsx",
+    "bank": "THE KANGRA COOPERATIVE BANK LIMITED",
+    "ifsc_prefix": "KANG"
+  },
+  {
+    "title": "The Karad Urban Cooperative Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_102.xlsx",
+    "bank": "THE KARAD URBAN COOPERATIVE BANK LIMITED",
+    "ifsc_prefix": "KUCB"
+  },
+  {
+    "title": "The Karanataka State Cooperative Apex Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_83.xlsx",
+    "bank": "THE KARANATAKA STATE COOPERATIVE APEX BANK LIMITED",
+    "ifsc_prefix": "KSCB"
+  },
+  {
+    "title": "The Kerala State Cooperative Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_248.xlsx",
+    "bank": "THE KERALA STATE CO OPERATIVE BANK LTD",
+    "ifsc_prefix": "KSBK"
+  },
+  {
+    "title": "The Kolhapur Urban Co-op Bank Ltd",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_270.xlsx",
+    "bank": "THE KOLHAPUR URBAN CO-OP BANK LTD",
+    "ifsc_prefix": "KOLH"
+  },
+  {
+    "title": "The Kurmanchal Nagar Sahakari Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_148.xlsx",
+    "bank": "THE KURMANCHAL NAGAR SAHAKARI BANK LIMITED",
+    "ifsc_prefix": "KNSB"
+  },
+  {
+    "title": "The Malad Sahakari Bank Ltd",
+    "url": "https://rbidocs.rbi.org.in/rdocs/content/docs/IFCB2009_276.xlsx",
+    "bank": "THE MALAD SAHAKARI BANK LTD",
+    "ifsc_prefix": "TMSB"
+  },
+  {
+    "title": "The Meghalaya Co-operative Apex Bank Ltd",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_285.xlsx",
+    "bank": "THE MEGHALAYA CO-OPERATIVE APEX BANK LTD",
+    "ifsc_prefix": "MCAB"
+  },
+  {
+    "title": "The Mehsana Urban Cooperative Bank",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_86.xlsx",
+    "bank": "THE MEHSANA URBAN COOPERATIVE BANK",
+    "ifsc_prefix": "MSNU"
+  },
+  {
+    "title": "The Mumbai District Central Cooperative Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_114.xlsx",
+    "bank": "THE MUMBAI DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+    "ifsc_prefix": "MDCB"
+  },
+  {
+    "title": "The Muslim Cooperative Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_255.xlsx",
+    "bank": "THE MUSLIM CO-OPERATIVE BANK LTD",
+    "ifsc_prefix": "MSLM"
+  },
+  {
+    "title": "The Municipal Cooperative Bank Limited, Mumbai",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_122.xlsx",
+    "bank": "THE MUNICIPAL COOPERATIVE BANK LIMITED",
+    "ifsc_prefix": "MUBL"
+  },
+  {
+    "title": "The Nainital Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_87.xlsx",
+    "bank": "THE NAINITAL BANK LIMITED",
+    "ifsc_prefix": "NTBL"
+  },
+  {
+    "title": "The Nasik Merchants Cooperative Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_104.xlsx",
+    "bank": "THE NASIK MERCHANTS COOPERATIVE BANK LIMITED",
+    "ifsc_prefix": "NMCB"
+  },
+  {
+    "title": "The Navnirman Cooperative Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_197.xlsx",
+    "bank": "THE NAVNIRMAN COOPERATIVE BANK LIMITED",
+    "ifsc_prefix": "NVNM"
+  },
+  {
+    "title": "The Nawanagar Cooperative Bank Ltd",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_268.xlsx",
+    "bank": "THE NAWANAGAR COOPERATIVE BANK LTD",
+    "ifsc_prefix": "TNCB"
+  },
+  {
+    "title": "The Nilambur Cooperative Urban Bank Limited, Nilambur",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_249.xlsx",
+    "bank": "THE NILAMBUR CO OPERATIVE URBAN BANK LTD NILAMBUR",
+    "ifsc_prefix": "NCUB"
+  },
+  {
+    "title": "The Odisha State Cooperative Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_256.xlsx",
+    "bank": "THE ODISHA STATE CO-OPERATIVE BANK LTD",
+    "ifsc_prefix": "ORCB"
+  },
+  {
+    "title": "The Pandharpur Urban Cooperative Bank Limited, Pandharpur",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_185.xlsx",
+    "bank": "THE PANDHARPUR URBAN CO OP. BANK LTD. PANDHARPUR",
+    "ifsc_prefix": "PUCB"
+  },
+  {
+    "title": "The Pusad Urban Cooperative Bank Limited, Pusad",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_259.xlsx",
+    "bank": "THE PUSAD URBAN COOPERATIVE BANK LTD PUSAD",
+    "ifsc_prefix": "PUSD"
+  },
+  {
+    "title": "The Punjab State Cooperative Bank Ltd",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_267.xlsx",
+    "bank": "THE PUNJAB STATE COOPERATIVE BANK LTD",
+    "ifsc_prefix": "TPSC"
+  },
+  {
+    "title": "The Rajasthan State Cooperative Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_125.xlsx",
+    "bank": "THE RAJASTHAN STATE COOPERATIVE BANK LIMITED",
+    "ifsc_prefix": "RSCB"
+  },
+  {
+    "title": "The Satara District Central Cooperative Bank Ltd",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_278.xlsx",
+    "bank": "THE SATARA DISTRICT CENTRAL COOPERATIVE BANK LTD",
+    "ifsc_prefix": "SDCE"
+  },
+  {
+    "title": "The Shamrao Vithal Cooperative Bank",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_91.xlsx",
+    "bank": "THE SHAMRAO VITHAL COOPERATIVE BANK",
+    "ifsc_prefix": "SVCB"
+  },
+  {
+    "title": "The Sindhudurg District Central Coop Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_206.xlsx",
+    "bank": "THE SINDHUDURG DISTRICT CENTRAL CO-OPERATIVE BANK LTD.",
+    "ifsc_prefix": "SIDC"
+  },
+  {
+    "title": "The Surat District Cooperative Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_126.xlsx",
+    "bank": "THE SURAT DISTRICT COOPERATIVE BANK LIMITED",
+    "ifsc_prefix": "SDCB"
+  },
+  {
+    "title": "The Surath Peoples Cooperative Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_92.xlsx",
+    "bank": "THE SURATH PEOPLES COOPERATIVE BANK LIMITED",
+    "ifsc_prefix": "SPCB"
+  },
+  {
+    "title": "The Tamil Nadu State Apex Cooperative Bank",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_93.xlsx",
+    "bank": "THE TAMIL NADU STATE APEX COOPERATIVE BANK",
+    "ifsc_prefix": "TNSC"
+  },
+  {
+    "title": "The Thane Bharat Sahakari Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_118.xlsx",
+    "bank": "THE THANE BHARAT SAHAKARI BANK LIMITED",
+    "ifsc_prefix": "TBSB"
+  },
+  {
+    "title": "The Thane District Central Cooperative Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_144.xlsx",
+    "bank": "THE THANE DISTRICT CENTRAL COOPERATIVE BANK LIMITED",
+    "ifsc_prefix": "TDCB"
+  },
+  {
+    "title": "The Udaipur Urban Cooperative Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_263.xlsx",
+    "bank": "THE UDAIPUR URBAN CO OPERATIVE BANK LTD",
+    "ifsc_prefix": "UUCB"
+  },
+  {
+    "title": "The Urban Cooperative Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_243.xlsx",
+    "bank": "THE URBAN CO OPERATIVE BANK LTD NO ONE SEVEN FIVE EIGHT PERINTHALMANNA",
+    "ifsc_prefix": "URBN"
+  },
+  {
+    "title": "The Varachha Cooperative Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_135.xlsx",
+    "bank": "THE VARACHHA COOPERATIVE BANK LIMITED",
+    "ifsc_prefix": "VARA"
+  },
+  {
+    "title": "The Vijay Cooperative Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_247.xlsx",
+    "bank": "THE VIJAY CO OPERATIVE BANK LIMITED",
+    "ifsc_prefix": "VCOB"
+  },
+  {
+    "title": "The Vishweshwar Sahakari Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_127.xlsx",
+    "bank": "THE VISHWESHWAR SAHAKARI BANK LIMITED",
+    "ifsc_prefix": "VSBL"
+  },
+  {
+    "title": "The West Bengal State Cooperative Bank",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_95.xlsx",
+    "bank": "THE WEST BENGAL STATE COOPERATIVE BANK",
+    "ifsc_prefix": "WBSC"
+  },
+  {
+    "title": "The Zoroastrian Cooperative Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_165.xlsx",
+    "bank": "THE ZOROASTRIAN COOPERATIVE BANK LIMITED",
+    "ifsc_prefix": "ZCBL"
+  },
+  {
+    "title": "TJSB Sahakari Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_177.xlsx",
+    "bank": "TJSB SAHAKARI BANK LTD",
+    "ifsc_prefix": "TJSB"
+  },
+  {
+    "title": "Tumkur Grain Merchants Cooperative Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_138.xlsx",
+    "bank": "TUMKUR GRAIN MERCHANTS COOPERATIVE BANK LIMITED",
+    "ifsc_prefix": "TGMB"
+  },
+  {
+    "title": "UBS AG",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_301.xlsx",
+    "bank": "UBS AG",
+    "ifsc_prefix": "CRES"
+  },
+  {
+    "title": "UCO Bank",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_96.xlsx",
+    "bank": "UCO BANK",
+    "ifsc_prefix": "UCBA"
+  },
+  {
+    "title": "Ujjivan Small Finance Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_198.xlsx",
+    "bank": "UJJIVAN SMALL FINANCE BANK LIMITED",
+    "ifsc_prefix": "UJVN"
+  },
+  {
+    "title": "Union Bank of India",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_97.xlsx",
+    "bank": "UNION BANK OF INDIA",
+    "ifsc_prefix": "UBIN"
+  },
+  {
+    "title": "United Overseas Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_155.xlsx",
+    "bank": "UNITED OVERSEAS BANK LIMITED",
+    "ifsc_prefix": "UOVB"
+  },
+  {
+    "title": "Unity Small finance Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_290.xlsx",
+    "bank": "UNITY SMALL FINANCE BANK LIMITED",
+    "ifsc_prefix": "UNBA"
+  },
+  {
+    "title": "Urban Co operative Bank Limited Bareilly",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_291.xlsx",
+    "bank": "URBAN CO OPERATIVE BANK LTD BAREILLY",
+    "ifsc_prefix": "UCLB"
+  },
+  {
+    "title": "Utkarsh Small Finance Bank",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_202.xlsx",
+    "bank": "UTKARSH SMALL FINANCE BANK",
+    "ifsc_prefix": "UTKS"
+  },
+  {
+    "title": "Uttar Pradesh Cooperative Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_257.xlsx",
+    "bank": "UTTAR PRADESH COOPERATIVE BANK LTD",
+    "ifsc_prefix": "UPCB"
+  },
+  {
+    "title": "Uttarakhand State Cooperative Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_302.xlsx",
+    "bank": "UTTARAKHAND STATE COOPERATIVE BANK LIMITED",
+    "ifsc_prefix": "USCB"
+  },
+  {
+    "title": "Vasai Janata Sahakari Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_230.xlsx",
+    "bank": "VASAI JANATA SAHAKARI BANK LTD",
+    "ifsc_prefix": "VASJ"
+  },
+  {
+    "title": "Vasai Vikas Sahakari Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_139.xlsx",
+    "bank": "VASAI VIKAS SAHAKARI BANK LIMITED",
+    "ifsc_prefix": "VVSB"
+  },
+  {
+    "title": "Vikas Souharda Co-operative Bank Limited",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_299.xlsx",
+    "bank": "VIKAS SOUHARDA CO-OPERATIVE BANK LIMITED",
+    "ifsc_prefix": "VSBA"
+  },
+  {
+    "title": "Woori Bank",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_128.xlsx",
+    "bank": "WOORI BANK",
+    "ifsc_prefix": "HVBK"
+  },
+  {
+    "title": "Yes Bank",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_100.xlsx",
+    "bank": "YES BANK",
+    "ifsc_prefix": "YESB"
+  },
+  {
+    "title": "Zila Sahakri Bank Limited Ghaziabad",
+    "url": "https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_156.xlsx",
+    "bank": "ZILA SAHAKRI BANK LIMITED GHAZIABAD",
+    "ifsc_prefix": "ZSBL"
+  }
+]
