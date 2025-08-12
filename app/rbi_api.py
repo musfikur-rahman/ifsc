@@ -2,6 +2,7 @@ import io
 import os
 import json
 import time
+import tempfile, os
 from typing import List, Dict, Any, Optional
 from urllib.parse import urljoin
 
@@ -14,12 +15,17 @@ import pandas as pd
 RBI_URL = "https://www.rbi.org.in/scripts/bs_viewcontent.aspx?Id=2009"
 MAX_DOWNLOAD_BYTES = 25 * 1024 * 1024
 CACHE_TTL_SECONDS = 6 * 60 * 60
-INDEX_PATH = os.path.join(os.path.dirname(__file__), "in_banks.json")
+INDEX_PATH = os.environ.get(
+    "INDEX_PATH",
+    os.path.join(tempfile.gettempdir(), "in_banks.json")
+)
+os.makedirs(os.path.dirname(INDEX_PATH), exist_ok=True)
 
 app = FastAPI(title="RBI API (banks / by-bank / by-ifsc)", version="2.0.0", docs_url="/")
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
+
     allow_methods=["*"],
     allow_headers=["*"],
 )
