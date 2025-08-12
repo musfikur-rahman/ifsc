@@ -10,7 +10,7 @@ venv/
 .DS_Store
 
 # Data files generated at runtime
-app/bd_banks.json
+app/in_banks.json
 
 # Caches
 .cache/
